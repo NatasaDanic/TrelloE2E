@@ -12,8 +12,8 @@ End-to-end tests for Trello
 1. Download or clone the repository 
 2. Open a terminal
 3. Go to the project root directory.
-4. Create a virtual environment: `py -m venv venv`
-5. Activate the virtual environment executing the following script: `.\venv\bin\activate`
+4. Create a virtual environment: `python3 -m venv venv`
+5. Activate the virtual environment executing the following script: `source venv/bin/activate`
 6. Execute the following command to download the necessary libraries:  `pip install -r requirements.txt`
 
 # Test Execution
